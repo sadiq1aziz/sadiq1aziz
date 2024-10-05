@@ -11,10 +11,10 @@ A. Finance App (FinHub): https://finhub-flax.vercel.app
 
 Sign-up Flow:
 1. On signing up, user is required to use Plaid to authenticate their bank account to connect to the app
-2. Since this is a sandbox environment configured for this portfolio from Plaid, using some of the popular american brands would be easier such as Chase
+2. Since this is a sandbox environment configured for this portfolio from Plaid, using some of the popular american bank brands would be easier such as Chase
 3. Platypus will require the user to autheticate creds
 4. Creds to authenticate for both username and password -> user_good
-5. For any MFA, user can proceed by submittign directly
+5. For any MFA, user can proceed via direct submission
 6. User can accept which account to be linked i.e savings or checking from the displayed list
 7. Once signed up, user can see the application
  
