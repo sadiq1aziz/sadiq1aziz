@@ -22,7 +22,7 @@ Transfer Funds Flow:
 1. A user can navigate to the my-banks section to see the associated accounts
 2. Copy the encrypted address of the account to which you want to share funds or share it with
    another trusted party on the application from whom funds are to be credited to your account
-   (receivers plaid ID)
+   (receiver's plaid ID)
 4. Fill up the form details and submit
 5. The transaction should appear in processing in the transctions list and will generally complete in 2 working days
 
@@ -32,10 +32,10 @@ B. E-commerce App: https://celebrated-shortbread-c1dd0d.netlify.app
 Flow:
 1. Choose product to add to cart
 2. Choose either on home screen or in shop page
-3. view cart
-4. make purchase using swift - test card details : 4242....
-5. submit
-6. Can also register an account via google or through email (Firebase).
+3. View cart
+4. Make purchase using swift - test card details : 4242....
+5. Submit
+6. Can also register an account via OAuth.
 
 <!---
 sadiq1aziz/sadiq1aziz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
