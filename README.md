@@ -3,7 +3,7 @@
 <p align="center">
   I build and maintain production Spring systems for enterprise clients: backend service integrations,
   async processing pipelines and security-critical authentication flows.<br/>
-  Seven years in Java. Outside work, I build and load-test cloud-native projects on AWS and GCP.
+  Seven years in Java.
 </p>
 
 ---
@@ -63,6 +63,5 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sadiq1aziz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiq1aziz&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
