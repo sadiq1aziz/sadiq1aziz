@@ -15,7 +15,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring&perline=10" alt="Java, Spring" />
   <img src="https://img.shields.io/badge/Java-8→21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 8-21" />
-  <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="WebFlux" />
   <img src="https://img.shields.io/badge/Resilience4j-2C3E50?style=for-the-badge&logoColor=white" alt="Resilience4j" />
 </p>
 
