@@ -30,7 +30,13 @@
   <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker&perline=10" alt="AWS, GCP, Kubernetes, Docker" />
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
 </p>
-<sub>AWS: ECS Fargate · ALB · CloudFront · RDS · CodePipeline</sub>
+<p>
+  <img src="https://img.shields.io/badge/ECS_Fargate-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" alt="ECS Fargate" />
+  <img src="https://img.shields.io/badge/ALB-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="ALB" />
+  <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudFront" />
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" alt="RDS" />
+  <img src="https://img.shields.io/badge/CodePipeline-C925D1?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CodePipeline" />
+</p>
 
 **Observability & Performance**
 
