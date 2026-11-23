@@ -1,43 +1,68 @@
-- 👋 Hi, I’m @sadiq1aziz
-- 🌱 A Senior Developer with more than 5 years of extensive experience in Java, specializing in frameworks like Liferay and Spring Boot, and proficient in JS frameworks such as React. Passionate about enhancing 
-      user experiences and driving innovation. 
-- 💞️ I’m looking to collaborate/work on new opensource projects to build upon my knowledge of application development
-- 📫 How to reach me - via mail - sadiq1aziz@gmail.com
+<h1 align="center">Senior Java Engineer</h1>
 
+<p align="center">
+  I build and maintain production Spring systems for enterprise clients: backend service integrations,
+  async processing pipelines and security-critical authentication flows.<br/>
+  Seven years in Java. Outside work, I build and load-test cloud-native projects on AWS and GCP.
+</p>
 
-Usecase scenarios for portfolio projects deployed in this repo :
+---
 
-A. Finance App (FinHub): https://finhub-flax.vercel.app 
+## 🧰 Tech Stack
 
-Sign-up Flow:
-1. On signing up, user is required to use Plaid to authenticate their bank account to connect to the app
-2. Since this is a sandbox environment configured for this portfolio from Plaid, using some of the popular american bank brands would be easier such as Chase
-3. Platypus will require the user to autheticate creds
-4. Creds to authenticate for both username and password -> user_good
-5. For any MFA, user can proceed via direct submission
-6. User can accept which account to be linked i.e savings or checking from the displayed list
-7. Once signed up, user can see the application
- 
-Transfer Funds Flow:
-1. A user can navigate to the my-banks section to see the associated accounts
-2. Copy the encrypted address of the account to which you want to share funds or share it with
-   another trusted party on the application from whom funds are to be credited to your account
-   (receiver's plaid ID)
-4. Fill up the form details and submit
-5. The transaction should appear in processing in the transctions list and will generally complete in 2 working days
+**Languages & Frameworks**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring&perline=10" alt="Java, Spring" />
+  <img src="https://img.shields.io/badge/Java-8→21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 8-21" />
+  <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="WebFlux" />
+  <img src="https://img.shields.io/badge/Resilience4j-2C3E50?style=for-the-badge&logoColor=white" alt="Resilience4j" />
+</p>
 
-B. E-commerce App: https://celebrated-shortbread-c1dd0d.netlify.app
+**Messaging & Data**
 
-Flow:
-1. Choose product to add to cart
-2. Choose either on home screen or in shop page
-3. View cart
-4. Make purchase using swift - test card details : 4242....
-5. Submit
-6. Can also register an account via OAuth.
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,postgres,redis&perline=10" alt="Kafka, RabbitMQ, PostgreSQL, Redis" />
+</p>
 
-<!---
-sadiq1aziz/sadiq1aziz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Cloud & DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker&perline=10" alt="AWS, GCP, Kubernetes, Docker" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+</p>
+<sub>AWS: ECS Fargate · ALB · CloudFront · RDS · CodePipeline</sub>
+
+**Observability & Performance**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana&perline=10" alt="Prometheus, Grafana" />
+  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki" />
+  <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter" />
+</p>
+
+**Frontend (side projects)**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts&perline=10" alt="Next.js, React, Redux, TypeScript" />
+</p>
+
+---
+
+## 🚀 Personal Projects
+
+| Project | What it shows |
+|---|---|
+| [**customer-service**](https://github.com/sadiq1aziz/customer-service) + [**movie-service**](https://github.com/sadiq1aziz/movie-service) | Two Spring Boot services on **AWS ECS Fargate** behind CloudFront and an ALB, deployed through CodePipeline with CPU autoscaling. Load-tested with JMeter at 200 concurrent users (about 1,060 req/s). Scaling from 2 to 3 tasks lifted throughput from about **705 to 1,059 req/s** and cut p95 latency from about **711 ms to 393 ms**. |
+| [**book-trip-api**](https://github.com/sadiq1aziz/book-trip-api) | **Java 21 virtual threads vs platform threads** on an I/O-bound fan-out API at 300 concurrent users: about **20% higher throughput** (173 vs 143 req/s) and p99 of **1,017 ms vs 1,913 ms**. |
+| [**BankEasy**](https://github.com/sadiq1aziz/BankEasy) | Event-driven banking backend on **GCP Kubernetes**: Kafka for post-commit notifications, a WebFlux gateway, Resilience4j circuit breakers, and Prometheus, Loki and Grafana for observability. |
+| [**finhub**](https://github.com/sadiq1aziz/finhub) · [**crwn-clothing**](https://github.com/sadiq1aziz/crwn-clothing) | Full-stack and frontend work: a Next.js finance dashboard with Plaid ([live](https://finhub-flax.vercel.app/)) and a React/Redux Saga storefront ([live](https://celebrated-shortbread-c1dd0d.netlify.app/)). |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sadiq1aziz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiq1aziz&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
