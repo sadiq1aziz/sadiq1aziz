@@ -14,8 +14,10 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring&perline=10" alt="Java, Spring" />
-  <img src="https://img.shields.io/badge/Java-8→21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 8-21" />
-  <img src="https://img.shields.io/badge/Resilience4j-2C3E50?style=for-the-badge&logoColor=white" alt="Resilience4j" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Java-8_to_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 8 to 21" />
+  <img src="https://img.shields.io/badge/Resilience4j-2C3E50?style=for-the-badge" alt="Resilience4j" />
 </p>
 
 **Messaging & Data**
@@ -28,9 +30,9 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker&perline=10" alt="AWS, GCP, Kubernetes, Docker" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
 </p>
 <p>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
   <img src="https://img.shields.io/badge/ECS_Fargate-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" alt="ECS Fargate" />
   <img src="https://img.shields.io/badge/ALB-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="ALB" />
   <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudFront" />
@@ -42,6 +44,8 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=prometheus,grafana&perline=10" alt="Prometheus, Grafana" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki" />
   <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter" />
 </p>
